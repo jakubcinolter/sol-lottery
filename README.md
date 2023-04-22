@@ -4,7 +4,7 @@ This is a simple lottery smart contract implemented in Solidity. Players can sen
 
 ## Prerequisites
 
-- Node.js
+- Solidity ide
 - Truffle
 
 ## How to Use
