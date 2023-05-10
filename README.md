@@ -15,5 +15,3 @@ Once the lottery has reached 20 players, a winner will be randomly selected and 
 
 You can also check the contract balance and the number of players by calling the balance and numPlayers functions, respectively.
 
-## License
-This project is licensed under the [MIT License](https://github.com/git/git-scm.com/blob/main/MIT-LICENSE.txt) - see the LICENSE file for details.
